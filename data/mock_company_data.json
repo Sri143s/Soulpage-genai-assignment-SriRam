@@ -1,0 +1,116 @@
+{
+  "nvidia": {
+    "company_info": {
+      "company_name": "NVIDIA Corporation",
+      "symbol": "NVDA",
+      "description": "NVIDIA Corporation is an American multinational technology company known for designing graphics processing units (GPUs), application programming interfaces (APIs) for data science, and high-performance computing system-on-a-chip units.",
+      "industry": "Semiconductors & Artificial Intelligence",
+      "headquarters": "Santa Clara, California, USA",
+      "website": "https://www.nvidia.com",
+      "founded_year": 1993,
+      "ceo": "Jensen Huang"
+    },
+    "stock_data": {
+      "symbol": "NVDA",
+      "price": 128.50,
+      "change": 3.45,
+      "change_percent": 2.76,
+      "timestamp": "2026-10-02T10:00:00Z",
+      "currency": "USD",
+      "demo_data": true,
+      "disclaimer": "DEMO DATA — NOT LIVE MARKET DATA"
+    },
+    "news": [
+      {
+        "title": "NVIDIA Announces Next-Generation Rubin Architecture for Blackwell Successor",
+        "summary": "NVIDIA unveiled its upcoming GPU architecture designed to accelerate generative AI workloads and extreme scale enterprise computing.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/nvidia-rubin-architecture",
+        "published_at": "2026-10-01"
+      },
+      {
+        "title": "NVIDIA Expands Strategic Cloud Partnerships Across Enterprise Ecosystem",
+        "summary": "NVIDIA has partnered with major hyperscalers to deploy custom AI data center infrastructure globally.",
+        "source": "Reuters",
+        "url": "https://reuters.com/business/nvidia-cloud-expansion",
+        "published_at": "2026-09-28"
+      },
+      {
+        "title": "NVIDIA Reports Record Data Center Revenue Driven by Global AI Adoption",
+        "summary": "NVIDIA published Q3 results demonstrating continued triple-digit growth in its Data Center business segment.",
+        "source": "Bloomberg",
+        "url": "https://bloomberg.com/news/nvidia-q3-results",
+        "published_at": "2026-09-25"
+      }
+    ]
+  },
+  "microsoft": {
+    "company_info": {
+      "company_name": "Microsoft Corporation",
+      "symbol": "MSFT",
+      "description": "Microsoft Corporation is an American multinational corporation and technology company producing computer software, consumer electronics, personal computers, and related services.",
+      "industry": "Software, Cloud Computing & AI",
+      "headquarters": "Redmond, Washington, USA",
+      "website": "https://www.microsoft.com",
+      "founded_year": 1975,
+      "ceo": "Satya Nadella"
+    },
+    "stock_data": {
+      "symbol": "MSFT",
+      "price": 448.20,
+      "change": 5.10,
+      "change_percent": 1.15,
+      "timestamp": "2026-10-02T10:00:00Z",
+      "currency": "USD",
+      "demo_data": true,
+      "disclaimer": "DEMO DATA — NOT LIVE MARKET DATA"
+    },
+    "news": [
+      {
+        "title": "Microsoft Copilot Integration Expands Across Azure Ecosystem",
+        "summary": "Microsoft introduces enhanced enterprise security and AI agents across Azure cloud services.",
+        "source": "Wall Street Journal",
+        "url": "https://wsj.com/tech/microsoft-copilot-azure",
+        "published_at": "2026-10-01"
+      },
+      {
+        "title": "Microsoft Azure Growth Surges Amid High Demand for Generative AI Infrastructure",
+        "summary": "Azure revenues increased significantly due to enterprise adoption of custom AI foundation models.",
+        "source": "CNBC",
+        "url": "https://cnbc.com/microsoft-azure-growth",
+        "published_at": "2026-09-29"
+      }
+    ]
+  },
+  "apple": {
+    "company_info": {
+      "company_name": "Apple Inc.",
+      "symbol": "AAPL",
+      "description": "Apple Inc. is an American multinational technology company specializing in consumer electronics, software, and online services.",
+      "industry": "Consumer Electronics & Software",
+      "headquarters": "Cupertino, California, USA",
+      "website": "https://www.apple.com",
+      "founded_year": 1976,
+      "ceo": "Tim Cook"
+    },
+    "stock_data": {
+      "symbol": "AAPL",
+      "price": 224.30,
+      "change": -1.20,
+      "change_percent": -0.53,
+      "timestamp": "2026-10-02T10:00:00Z",
+      "currency": "USD",
+      "demo_data": true,
+      "disclaimer": "DEMO DATA — NOT LIVE MARKET DATA"
+    },
+    "news": [
+      {
+        "title": "Apple Intelligence Rolls Out Enhanced Siri Features Globally",
+        "summary": "Apple releases new on-device AI capabilities with enhanced privacy controls and contextual assistance.",
+        "source": "The Verge",
+        "url": "https://theverge.com/apple-intelligence-siri",
+        "published_at": "2026-10-01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+1. Instructions for Command Prompt (CMD)
+cd /d "C:\Users\Sriram\OneDrive\Desktop\GenAI task\Soulpage-genai-assignment-SriRam"
+
+python main.py ui
+
+python main.py server
+
+python main.py demo
+
+python -m pytest -v
